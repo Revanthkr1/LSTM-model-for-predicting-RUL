@@ -1,2 +1,2 @@
-# LSTM-model-for-predicting-RUL
-OBJECTIVE: This project aims to use Long shot-term memory a type of Recurrent Neural Network architecture to CMAPSS FD001 Dataset to predict the Remaining Useful Life(RUL) values.
+LSTM-Based Model for Predicting Remaining Useful Life (RUL)
+This project involves developing a Long Short-Term Memory (LSTM) model — a specialized type of Recurrent Neural Network (RNN) — using TensorFlow to predict the Remaining Useful Life (RUL) of aircraft engine components. Leveraging the NASA C-MAPSS FD001 dataset, the model captures temporal patterns in multivariate sensor data to estimate the number of operational cycles left before failure. This predictive maintenance approach aims to enhance reliability and reduce unexpected downtimes in aerospace systems.
